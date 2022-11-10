@@ -1,6 +1,6 @@
 # Excel_Advance_Analysis
 
-### In this case, I used all of the necessary Excel functions,formulae, Logical operation that are required in any data analysis tasks.
+### In this case, I used all of the necessary Excel functions,formulae, Logical etc. operation that are required in any data analytics tasks.
 
 >> Some screenshots...
 
